@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------------*/
-/* Project: Aqua Shatar - Swim Academy HTML5 Template */
+/* Project: Aquashan - Swim Academy HTML5 Template */
 /* Ver: 1.0.1*/
 /* Date: 25-06-2017*/
 /* Author: xenioushk*/
